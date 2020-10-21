@@ -1,0 +1,754 @@
+{
+    "proverbs":[
+            {
+            "proverb": "A bad workman always blames his tools.",
+            "explanation": "This proverb is used when someone blames the quality of their equipment or other external factors when they perform a task poorly.",
+            "example": "X: The turkey isn’t cooked well because the oven is not functioning well. Y: Well, it’s the case of a bad workman blaming his tools."
+            },
+            {
+            "proverb": "A bird in hand is worth two in the bush.",
+            "explanation":"Things we already have are more valuable than what we hope to get.",
+            "example": "X: Why did you turn down that job offer when you don’t have anything concrete in hand at the moment? Y: Well, I’m confident I’ll land one of the two jobs I interviewed for last week. And they’re better than this one. X: In my opinion, you should’ve taken it. A bird in hand is worth two in the bush."
+            },
+            {
+            "proverb": "Absence makes the heart grow fonder.",
+            "explanation": "When people we love are not with us, we love them even more. ",
+            "example": "When I was with her she always fought with me but now she cries for me on phone. I think distance made her heart grow fonder."
+            },
+            {
+            "proverb": "A cat has nine lives.",
+            "explanation":"Cat can survive seemingly fatal events. ",
+            "example": "I haven’t seen him for several weeks, but I wouldn’t really worry about him. Everyone knows a cat has nine lives."
+            },
+            {
+            "proverb": "A journey of thousand miles begins with a single step.",
+            "explanation": "Howsoever big a task is, it starts with a small step.",
+            "example": " I’m feeling overwhelmed by the prospect of completing 4,000-word paper by next week, but I guess I’ll start by writing 500 words every day. After all, a journey of a thousand miles begins with a single step."
+            },
+            {
+            "proverb": "A chain is only as strong as its weakest link.",
+            "explanation":"One weak part will render the whole weak. ",
+            "example": "No matter how confident the team is, it is as strong as its weakest link – its defence."
+            },
+            {
+            "proverb": "Actions speak louder than words.",
+            "explanation": "Actions are a better reflection of one’s character because it’s easy to say things, but difficult to act on them and follow through.",
+            "example": " Julie always says she’ll donate to the school, and she never does, so I doubt she will this year. Actions speak louder than words, after all."
+            },
+            {
+            "proverb": "A drowning man will clutch at a straw.",
+            "explanation": "When someone is in a difficult situation, s/he will take any available opportunity to improve it.",
+            "example": " After trying all reliable medicines, he is now visiting quacks to get a cure for his baldness. A drowning man will clutch at a straw."
+            },
+            {
+            "proverb": "Adversity and loss make a man wise.",
+            "explanation":"We gain wisdom faster in difficult times than in prosperous times. ",
+            "example": "After losing money in my investments, I know which investments to avoid. It is rightly said adversity and loss make a man wise."
+            },
+            {
+            "proverb": "A fool and his money are soon parted.",
+            "explanation":"Foolish people do not know how to hold on to their money",
+            "example": " She gave up her entire estate on the basis of a verbal promise. A fool and his money are indeed easily parted."
+            },
+            {
+                "proverb":"A leopard can’t/ doesn’t change its spots.",
+                "explanation":"A person can’t change its innate character, especially bad.",
+                "example":"Do you think he’ll stop copying after being caught and penalized? Y: I don’t think so. A leopard can’t change its spots."
+            },
+            {
+                "proverb":"All good things come to an end.",
+                "explanation":"Good experiences eventually come to an end.",
+                "example":"I was so sad to graduate from college and separate from my friends, but I’ve to realize that all good things come to an end."
+            },
+            {
+                "proverb":"All’s well that ends well.",
+                "explanation":"As long as the outcome is good, problems on the way don’t matter.",
+                "example":"I’m glad you finally got here, even though your car had a flat tire on the way. Oh well, all’s well that ends well."
+            },
+            {
+                "proverb":"All that glitters is not gold.",
+                "explanation":"Things that look good outwardly may not be as valuable or good.",
+                "example":"I want to be a movie star when I grow up. Y: Film industry looks good from the distance, but it has its own problems. Remember, all that glitters is not gold."
+            },
+            {
+                "proverb":"All’s fair in love and war.",
+                "explanation":"One can break the rules of fair play under extenuating circumstances.",
+                "example":"How can you pitch my idea to the boss to look good? Y: Come on, all is fair in love and war."
+            },
+            {
+                "proverb":"Always put your best foot forward.",
+                "explanation":"Try as hard as you can or give your best.",
+                "example":"You need to put your best foot forward in the interview if you want to land that job."
+            },
+            {
+                "proverb":"Among the blind the one-eyed man is king.",
+                "explanation":"An incapable person can gain powerful position if others in the fray are even more incapable.",
+                "example":"Despite his obvious lack of exposure and skills, he became head of the department because he is one-eyed among the blind."
+            },
+            {
+                "proverb":"An apple a day keeps the doctor away.",
+                "explanation":"Eating an apple a day will keep you healthy.",
+                "example":"Switch from chips to apples for your snack. An apple a day keeps the doctor away."
+            },
+            {
+                "proverb":"An empty vessel makes much noise.",
+                "explanation":"Foolish or stupid people are the most talkative.",
+                "example":"The spokesperson of the ruling political party yesterday was shouting at the top of his voice on a TV debate, trying to defend the indefensible. Empty vessel makes much noise."
+            },
+            {
+                "proverb":"An idle brain is the devil’s workshop.",
+                "explanation":"If you’ve nothing to do, you’ll likely think of mischief.",
+                "example":"The kids should be kept busy during the summer break. Otherwise, you know an idle brain is devil’s workshop."
+            },
+            {
+                "proverb":"An ounce of protection is worth a pound of cure.",
+                "explanation":"A little precaution before a crisis hits is better than lot of firefighting afterwards.",
+                "example":"Get the vaccination on priority. An ounce of protection is worth a pound of cure."
+            },
+            {
+                "proverb":"A picture is worth a thousand words.",
+                "explanation":"It is easier to show or explain something through a picture than through words.",
+                "example":"A picture is worth a thousand words. It is easier to learn biology through pictures than through reams of text."
+            },
+            {
+                "proverb":"Appearances can be deceptive.",
+                "explanation":"Outward appearance may not be what you believe them to be.",
+                "example":"X: He was well-mannered, suave, and good to talk to, but he turned out to be a cheater. Y: Well, appearances can be deceptive."
+            },
+            {
+                "proverb":"A rolling stone gathers no moss.",
+                "explanation":"A person who is always changing jobs and places has the advantage of less responsibilities, but also the disadvantage of no fixed place to live.",
+                "example":"He was a bit of rolling stone before he got the job and settled down."
+            },
+            {
+                "proverb":"A ship in the harbor is safe, but that is not what a ship is for.",
+                "explanation":"Get out of your comfort zone to grow and fulfill your potential.",
+                "example":"I think your fears are unfounded. You should travel to Italy for the Model UN. I’m sure you’ll learn a lot. Remember, a ship in the harbor is safe, but that is not what a ship is for."
+            },
+            {
+                "proverb":"A stitch in time saves nine.",
+                "explanation":"It’s better to deal with problems immediately rather than wait by when they worsen and become much bigger.",
+                "example":" Because we anticipated and responded to the possible change in Facebook algorithm, the referral traffic to our website dropped much less than what happened to some of our competitors. A stitch in time saves nine."
+            },
+            {
+                "proverb":"As you sow, so you shall reap.",
+                "explanation":"Your actions – good or bad – determine what you get.",
+                "example":"You’ve got entangled in few cases of fraud. That’s a result of your illegal get-rich-quick methods. You should have known as you sow, so you shall reap."
+            },
+            {
+                "proverb":"A thing begun is half done.",
+                "explanation":"A good beginning makes it easier to accomplish the rest of the project.",
+                "example":" He has already won first set in the match. I think he is on course to take this match. Well begun is half done, after all."
+            },
+            {
+                "proverb":"Barking dogs seldom bite.",
+                "explanation":"People who appear threatening rarely do harm.",
+                "example":"X: I’m really scared to report delay in the project to the boss. His temper is so over the top. Y: I don’t think you should worry too much about it. Barking dogs seldom bite"
+            },
+            {
+                "proverb":"Be slow in choosing, but slower in changing.",
+                "explanation":"Choose things or people after proper diligence, but once you choose, stick for long.",
+                "example":"Don’t be hasty in picking friends, but once you make friends with someone, don’t change him/ her fast. You should be slow in choosing, but slower in changing."
+            },
+            {
+                "proverb":"Beauty is in the eye of the beholder.",
+                "explanation":"What may seem beautiful to one person may not seem to another.",
+                "example":"You may not like the curves of my new car, but then beauty is in the eye of the beholder"
+            },
+            {
+                "proverb":"Beauty is only skin deep.",
+                "explanation":"A person’s character, intellect, and other inner qualities are more important than his/ her physical beauty.",
+                "example":"That gorgeous actress behaved so rudely with the driver – beauty is skin deep, after all."
+            },
+            {
+                "proverb":"Beggars can’t be choosers.",
+                "explanation":"People who depend on the generosity of others can’t pick & choose things as per their liking. They’ve to accept what is given to them.",
+                "example":" X: I borrowed this jacket from my friend, but it’s not one of his nice ones. Y: Well, but, beggars can’t be choosers."
+            },
+            {
+                "proverb":"Best things in life are free.",
+                "explanation":"The most valuable things are often free.",
+                "example":"I feel so rejuvenated in clean air, sparkling water, and beautiful nature of the mountains. Often times, the best things in life are free."
+            },
+            {
+                "proverb":"Better late than never.",
+                "explanation":"It is better to get something (you desire) late than get it neve",
+                "example":"I’m sorry I’m late to the party, but better late than never, right?"
+            },
+            {
+                "proverb":"Better to be poor and healthy rather than rich and sick.",
+                "explanation":"Good health is more important than money.",
+                "example":"The pharma tycoon has been in and out of hospital for the last two months because of kidney ailments. It’s better to be poor and healthy than rich and sick"
+            },
+            {
+                "proverb":"Better to wear out than to rust out.",
+                "explanation":"It is better to remain active than to be idle (used mainly for old people)",
+                "example":"X: Seeing your age, I wouldn’t recommend you to work so hard. Y: It’s better to wear out than to rust out."
+            },
+            {
+                "proverb":"Cleanliness is next to Godliness.",
+                "explanation":"Cleanliness is a sign of goodness, a great virtue.",
+                "example":"Keep yourself clean, after all cleanliness is next to Godliness."
+            },
+            {
+                "proverb":"Clothes do not make the man.",
+                "explanation":"A person’s character can’t be judged by his/ her clothing and outward appearance.",
+                "example":"X: I can’t believe he has been charged for insider trading. He always seemed so professional and impeccable. Y: Well, clothes don’t make the man."
+            },
+            {
+                "proverb":"Cowards die many times before their deaths.",
+                "explanation":"Cowards suffer the feared effects of death many times over in their lives.",
+                "example":"X: He is constantly worried about the security of his job, and I don’t think he’ll pursue his true interests. Y: He exemplifies the saying ‘cowards die many times before their deaths’."
+            },
+            {
+                "proverb":"Blood is thicker than water.",
+                "explanation":"Relationships with family (or blood relatives) is stronger than other relationships",
+                "example":"My friends invited me for the picnic on Sunday, but I have to go to my cousin’s birthday instead. Blood is thicker than water, isn’t it?"
+            },
+            {
+                "proverb":"Cross the stream where it is shallowest.",
+                "explanation":"To do things in the easiest possible way.",
+                "example":"Let’s just cross the stream where it is shallowest and find a spot that you can pull right in to—don’t worry about parallel parking."
+            },
+            {
+                "proverb":"Curiosity killed the cat.",
+                "explanation":"Enquiring into others’ work can be dangerous. One should mind own business.",
+                "example":"I know curiosity killed the cat, but I can’t stop the investigation until I know where the donations are really going"
+            },
+            {
+                "proverb":"Curses, like chickens, come home to roost.",
+                "explanation":"The consequences of doing wrong always catch up with the wrongdoer.",
+                "example":"Politicians can fool some people some of the time, but in the end, chickens come home to roost."
+            },
+            {
+                "proverb":"Discretion is the better part of valor.",
+                "explanation":"It is wise to be careful and not show unnecessary bravery.",
+                "example":"Son: Can I go hand gliding with my friends? Father: No. Son: But they’ll say I’m a chicken if I don’t go! Father: Discretion is the better part of valor, and I’d rather have them call you chicken than risk your life"
+            },
+            {
+                "proverb":"Don’t bite off more than you can chew.",
+                "explanation":"Don’t take more responsibility than you can handle.",
+                "example":"I bit off more than I can chew when I said ‘yes’ to my boss for another project."
+            },
+            {
+                "proverb":"Don’t bite the hand that feeds you.",
+                "explanation":"Don’t act badly toward the person who has helped you or from whom you derive some benefits, for you may lose those benefits in future.",
+                "example":"Don’t bite the hand that feeds you by talking ill of your mentor for such a small thing. If he distances himself from you or talk bad about you, it can hurt you bad."
+            },
+            {
+                "proverb":"Don’t blow your own trumpet.",
+                "explanation":"You should avoid proudly talking of your achievements and success in front of others.",
+                "example":"Don’t blow your own trumpet by talking of who your clients are and how much money you make every month."
+            },
+            {
+                "proverb":"Don’t cast pearls before swine.",
+                "explanation":"Don’t offer something valuable to someone who doesn’t value it.",
+                "example":"To serve them French cuisine is like casting pearls before swine."
+            },
+            {
+                "proverb":"Don’t count your chickens before they hatch.",
+                "explanation":"Don’t make plans based on future events that may not happen at all.",
+                "example":" X: I’ve to prepare for my campaign. Y: But you haven’t been nominated yet. Don’t count your chickens before they hatch."
+            },
+            {
+                "proverb":"Don’t cross a bridge until you come to it.",
+                "explanation":"Deal with a situation when it happens and not unnecessarily worry about it in advance",
+                "example":" I know you’re worried about the mortgage payment in January, but don’t cross the bridge till you come to it."
+            },
+            {
+                "proverb":"Don’t judge a book by its cover.",
+                "explanation":"Just like you can’t form an opinion of a book just by looking at its cover, you can’t form an opinion about someone (or something) from their outward appearance.",
+                "example":"Just like you can’t form an opinion of a book just by looking at its cover, you can’t form an opinion about someone (or something) from their outward appearance."
+            },
+            {
+                "proverb":" Don’t kill the goose that lays the golden eggs.",
+                "explanation":"If you kill a goose that lays golden eggs, you destroy something that makes lot of money for you.",
+                "example":"Tourists come to this city mainly to see this monument. By opening it to commercial use, the city council may kill the goose that lays golden eggs."
+            },
+            {
+                "proverb":"Don’t put all your eggs in one basket.",
+                "explanation":"Don’t put all your effort into a single course of action, venture, investment, goal, or the like, because if it doesn’t work, you lose everything.",
+                "example":"Almost entire revenue of the Company comes from the Facebook platform. If Facebook tweaks its policies in future, the Company may sink. They shouldn’t put all their eggs in the same basket."
+            },
+            {
+                "proverb":"Don’t put the cart before the horse.",
+                "explanation":"Do things in proper order. ‘Horse before the cart’ is the proper order, and not ‘cart before the horse’.",
+                "example":"Don’t put the cart before the horse by finalizing the house you want to buy before you arrange the funds for down payme"
+            },
+            {
+                "proverb":"Don’t throw the baby with the bathwater",
+                "explanation":"Don’t discard something valuable while getting rid of something worthless.",
+                "example":"We shouldn’t scrap the entire project for a subpart not planned well. Let’s not throw the baby with the bathwater."
+            },
+            {
+                "proverb":"Early bird catches the worm.",
+                "explanation":"One who starts early on the work has higher chance of success.",
+                "example":"X: Why have you come so early for the season-ending sale? Y: So that I can choose from a wider selection and get a better piece. Early bird catches the worm, after all."
+            },
+            {
+                "proverb":"Easy come, easy go.",
+                "explanation":"You say this when you get something easily and then lose it as easily.",
+                "example":"I found fifty dollars while on my morning walk, but I frittered it away foolishly by the afternoon – easy come, easy go."
+            },
+            {
+                "proverb":"Empty bags cannot stand upright.",
+                "explanation":"A poor or hungry person cannot discharge his duties well.",
+                "example":"You cannot expect poor people to fight for climate change, because empty bags cannot stand upright. They need to first fulfill their basic needs."
+            },
+            {
+                "proverb":"Every cloud has a silver lining.",
+                "explanation":"Every bad or negative situation can result in some benefit to you. (The presence of silver lining means that the sun is behind the cloud and will eventually emerge.)",
+                "example":"I know your business has suffered few setbacks this season. But remember, every cloud has a silver lining."
+            },
+            {
+                "proverb":"Every dog has his day.",
+                "explanation":"Even the unluckiest or the most unfortunate will taste success at some point.",
+                "example":"Are you surprised that John, the laggard, has got 92 percent marks in math? Well, every dog has his day."
+            },
+            {
+                "proverb":"Every man is the architect of his destiny.",
+                "explanation":"Your own actions and decisions decide what you achieve (or don’t) in life.",
+                "example":"Don’t blame others for your current state of affairs. Every man is the architect of his destiny. You too are."
+            },
+            {
+                "proverb":"Every man has his price.",
+                "explanation":"Anyone can be swayed to do something. It’s just that some may demand high price, some low. This proverb is also used in the sense of bribing people.",
+                "example":" He has declined our offer to join the company. Y: Sweeten the offer. Raise the compensation. Every man has his price."
+            },
+            {
+                "proverb":"Fall seven times. Stand up eight.",
+                "explanation":"Be resilient and try despite failures. That’s how you succeed.",
+                "example":"Abraham Lincoln lost so many elections, but he kept trying. Eventually he became the President of United States. It’s rightly said: Fall seven times. Stand up eight."
+            },
+            {
+                "proverb":"Familiarity breeds contempt.",
+                "explanation":"If you know a situation, person, or thing well, you stop respecting them and become careless.",
+                "example":"After working so many years in that role, I don’t like it. I guess familiarity breeds contempt."
+            },
+            {
+                "proverb":"Fools rush in where angels fear to tread.",
+                "explanation":"Fools or inexperienced persons get involved in situations or pursue goals without much thought. In contrast, wise are thoughtful about such situations or goals.",
+                "example":"He sent an angry email without going into the background of the matter – fools rush in where angels fear to tread."
+            },
+            {
+                "proverb":"Fortune favors the brave.",
+                "explanation":"If you carry out your plans boldly, the luck is more likely to favor you.",
+                "example":"I know you’re hesitant to accept the overseas position in your Company because the ground realities there are different from what you’ve faced so far, but remember fortune favors the brave."
+            },
+            {
+                "proverb":"Get out while the going (getting) is good.",
+                "explanation":"To leave a place or situation before conditions worsen and it becomes difficult to leave.",
+                "example":"With the stock market at an all-time high and further upside looking difficult, we decided to sell our shares and get out while the going was good."
+            },
+            {
+                "proverb":"Give them an inch and they’ll take a mile.",
+                "explanation":"If you give someone a small amount of power or freedom to do something, they may try to get a lot more.",
+                "example":"He borrowed my car for a day, but hasn’t returned even after four days. Well, give them an inch and they’ll take a mile."
+            },
+            {
+                "proverb":"God helps those who help themselves.",
+                "explanation":"God doesn’t help those who don’t try. You’ve to make effort if you want to succeed.",
+                "example":"You’ve to take the bull by horns and try getting a new job. God helps those who help themselve"
+            },
+            {
+                "proverb":"Good things come to those who wait.",
+                "explanation":"Patience is often rewarded.",
+                "example":"The best investors in the world have made their fortunes by investing for the long term. Good things come to those who wait."
+            },
+            {
+                "proverb":"Grief divided is made lighter.",
+                "explanation":"If you share your grief, it’ll get easier to bear.",
+                "example":"You shouldn’t hold back the news of financial loss you’ve incurred in your business. Grief divided is made lighter."
+            },
+            {
+                "proverb":"Half a loaf is better than none.",
+                "explanation":"Getting less than what one wants is better than not getting anything.",
+                "example":"X: Did you get the compensation for damage to your vehicle? Y: I was hoping for $2,000, but the judge awarded only $800. X: Well, half a loaf is better than none."
+            },
+            {
+                "proverb":"Honesty is the best policy.",
+                "explanation":"It’s always better to be truthful and honest, even if the opposite may get you the benefits.",
+                "example":"I think you should just explain what happened, rather than trying to cover your tracks. Honesty is the best policy, after all."
+            },
+            {
+                "proverb":"Hope for the best, prepare for the worst.",
+                "explanation":"Be optimistic, but be prepared for a scenario where things can go wrong.",
+                "example":"We’re hoping to raise capital from investors, but it may not come so soon. Therefore, it’s imperative to look for alternatives as well. Let’s hope for the best, but prepare for the worst."
+            },
+            {
+                "proverb":"If it ain’t broke, don’t fix it.",
+                "explanation":"If something is working fine, don’t change it unnecessarily.",
+                "example":"X: Why do you want to change this component in the machine when everything is working fine? Y: OK. I agree. If it ain’t broke, don’t fix it."
+            },
+            {
+                "proverb":"If the mountain won’t come to Muhammad, Muhammad must go to the mountain.",
+                "explanation":"If things don’t turn the way you want them to, then adjust your way to suit those things.",
+                "example":" I need that book for completing my assignment. If you aren’t coming to the college tomorrow, I’ll come to your place to take it – if the mountain won’t come to Muhammad, Muhammad must go to the mountain."
+            },
+            {
+                "proverb":"If wishes were horses, beggars would ride.",
+                "explanation":"If things were to happen by just wishing them, even the poorest will have everything they want.",
+                "example":"X: I want to be in a job that would pay me a million dollars a year. Y: If wishes were horses, beggars would ride. Stop fooling yourself and work hard towards your goal."
+            },
+            {
+                "proverb":"If you can’t beat them, join them.",
+                "explanation":"If you can’t beat your opponent, then work alongside them for mutual benefit.",
+                "example":"ABC Pvt. Ltd. has struck partnership with its competitor after it failed to gain market share despite aggressive marketing. If you can’t beat them, join them."
+            },
+            {
+                "proverb":" If you play with fire, you’ll get burned.",
+                "explanation":"If you do something dangerous or adventurous, you may get harmed.",
+                "example":" Enacting the stunts of movie superheroes in real life is playing with fire. You may get burned."
+            },
+            {
+                "proverb":"Ignorance is bliss.",
+                "explanation":"If you don’t know about something, you don’t need to bother about it. In other words, if you’re unaware of something, it won’t cause you stress. This proverb, however, is often used in negative way – ignorance is not bliss.",
+                "example":"I didn’t know that the neighbor next door was involved in criminal activities. Sometimes, ignorance is bliss."
+            },
+            {
+                "proverb":"It’s better to be safe than sorry.",
+                "explanation":"It’s better to be cautious than regret later.",
+                "example":"One shouldn’t complain about the inconvenience of security check each time you enter the building. It’s better to be safe than sorry."
+            },
+            {
+                "proverb":"It’s easy to be wise after the event.",
+                "explanation":"It is easy to understand what you could have done to prevent something bad from happening after it has happened.",
+                "example":"I would have never bought an apartment if I had known that the land on which it has been built is disputed. Well, it’s easy to be wise after the event."
+            },
+            {
+                "proverb":" It’s never too late to mend.",
+                "explanation":"It’s never too late to change your wrong ways or habits.",
+                "example":"X: I still miss my best friend, but it’s been a year since our fight and we haven’t spoken to each other since. Y: Well, it’s never too late to mend; why don’t you call him up and apologize?"
+            },
+            {
+                "proverb":"It’s not over till it’s over.",
+                "explanation":"Till the event has completely played, you’re still in with a chance to succeed.",
+                "example":"Jo-Wilfried Tsonga came back from two sets down at Wimbledon to pull off a miraculous win. That’s why they say it’s not over till it’s over."
+            },
+            {
+                "proverb":"It’s no use crying over spilt milk.",
+                "explanation":"There is no point in staying upset over a mistake because you can’t undo what has happened.",
+                "example":"X: He is feeling terrible for accidently elbowing the flower pot from the window. Y: It’s broken now. It’s no use crying over spilt milk."
+            },
+            {
+                "proverb":" It takes two to make a quarrel.",
+                "explanation":"An argument of quarrel is not one person’s fault.",
+                "example":" X: Why are you always so quarrelsome? Y: I’m not the only person involved. It takes two to make a quarrel."
+            },
+            {
+                "proverb":"It takes two to tango.",
+                "explanation":"Where two parties are involved in a situation, fault usually lies with both if things go wrong. Rarely can one party be blamed entirely.",
+                "example":"This deal won’t go through unless you too are willing to compromise. It takes two to tango, after all."
+            },
+            {
+                "proverb":"Keep your mouth shut and your eyes open.",
+                "explanation":"Speak only when necessary and remain alert and observant at all times.",
+                "example":"We’re in a hostile territory. So, to avoid problems, keep your mouth shut and your eyes open."
+            },
+            {
+                "proverb":"Laughter is the best medicine.",
+                "explanation":"Thinking positively and laughing will help you to feel better.",
+                "example":"I think the best thing for you right now would be to spend some time with people you can joke around with. Laughter is the best medicine, after all."
+            },
+            {
+                "proverb":"Learn to walk before you run.",
+                "explanation":"Learn basic skills first before venturing into complex things.",
+                "example":"X: I want to submit my first article to Fortune magazine for publication. Y: I think you should aim for smaller publications to start with. You should learn to walk before you run."
+            },
+            {
+                "proverb":"Let sleeping dogs lie.",
+                "explanation":"Don’t talk about a bad situation people have forgotten and that could unnecessarily create problem in the present.",
+                "example":"X: Should I ask the professor if he is upset about my late submission of the assignment? Y: If he hasn’t said anything, then don’t bring forth the topic – let sleeping dogs lie."
+            },
+            {
+                "proverb":" Life begins at forty.",
+                "explanation":"A person truly starts enjoying life after forty as a result of accumulated skills and wisdom.",
+                "example":"X: I’m turning 40 next month. Y: You look glum. You should instead be cheerful, after all life begins at forty."
+            },
+            {
+                "proverb":"Lightning never strikes twice in the same place.",
+                "explanation":"Misfortune does not occur twice in the same way to the same person.",
+                "example":" X: I don’t want to take this route, because I was robbed the last time I traveled on this route. Y: Don’t worry, lightning never strikes twice in the same place."
+            },
+            {
+                "proverb":"Look before you leap.",
+                "explanation":"Consider all consequences before taking an action, especially when you can’t retract.",
+                "example":" X: I’m planning to pursue an MBA. Y: It’s an expensive degree and, moreover, you’ll be out of work for two years. I would say look before you leap."
+            },
+            {
+                "proverb":"Make hay while the sun shines.",
+                "explanation":"Make the most of favorable conditions till they last.",
+                "example":" I got plenty of referral traffic to my website from Facebook in its initial years. I made hay while the sun shone. Later on they changed their algorithm, after which the traffic dried."
+            },
+            {
+                "proverb":"Money doesn’t grow on trees.",
+                "explanation":"Spend money carefully because it’s limited. You can’t grow it on trees and replenish.",
+                "example":"I’m surprised that you spent your entire month’s salary on a frivolous gadget. Well, money doesn’t grow on trees."
+            },
+            {
+                "proverb":"Money talks.",
+                "explanation":"Money gives one power and influence.",
+                "example":" I don’t have access to many people like he has, after all he is a scion of a rich family. Money talks, you know."
+            },
+            {
+                "proverb":"Necessity is the mother of invention.",
+                "explanation":"A need or problem forces people to come up with innovative solutions.",
+                "example":" In some parts of the world, farmers use washing machine to clean potatoes in large volumes. Necessity, after all, is the mother of invention."
+            },
+            {
+                "proverb":"Never put off until tomorrow what you can do today",
+                "explanation":"Don’t delay doing something if you can do it immediately.",
+                "example":"X: I’m done with most of my assignment, but I’ll pick the remaining part on Monday. Y: Why don’t you complete it now? You’ll be more relieved and in a better state of mind. You shouldn’t put off until tomorrow what you can do today."
+            },
+            {
+                "proverb":"Never test the depth of water with both feet.",
+                "explanation":"If you’re in water with both feet down, you risk being swept away by the currents. The message is: don’t put all your eggs in the same basket. Think twice before placing all your bets and investments on one thing.",
+                "example":"While applying to colleges, don’t limit yourself only to those with high cutoff marks. Never test the depth of the water with both feet."
+            },
+            {
+                "proverb":"No gain without pain.",
+                "explanation":"It is necessary to suffer or work hard in order to succeed or make progress.",
+                "example":" You’ve to drastically reduce the time you spend on video games and TV if you want to get admission in a good college. No gain without pain."
+            },
+            {
+                "proverb":"No news is good news",
+                "explanation":"If you don’t receive any news about someone or something, it means that everything is fine and going normally.",
+                "example":"My daughter has been working in Australia for nearly five years now. At first I used to get worried when I didn’t hear from her, but now I know that no news is good news."
+            },
+            {
+                "proverb":"Once bitten twice shy.",
+                "explanation":"You say this proverb when someone won’t do something a second time because they had bad experience the first time.",
+                "example":"I won’t try this drink, because last time I had a burning sensation in my throat. Once bitten twice shy, I guess."
+            },
+            {
+                "proverb":"One man’s junk is another man’s treasure.",
+                "explanation":"What may seem to be junk to one person maybe valuable to another.",
+                "example":"I sold my 6-year-old laptop for little amount, but I’m sure the buyer will make hefty profit on it by refurbishing and selling it to someone else. One man’s junk is another man’s treasure, after all."
+            },
+            {
+                "proverb":"One shouldn’t miss forest for the trees.",
+                "explanation":"Sometimes you get so focused on small details that you may miss the larger context.",
+                "example":"The marketers got so bogged down on creating the perfect ad campaign that they didn’t realize that the medium – Facebook – they wanted to use was no longer a viable option because of its recent algorithm updates."
+            },
+            {
+                "proverb":"Out of sight, out of mind.",
+                "explanation":"If someone or something is not seen for a long time, it’ll be forgotten.",
+                "example":"Many celebrities find a way to appear in media because they know that out of sight is out of mind."
+            },
+            {
+                "proverb":"Pen is mightier than sword.",
+                "explanation":"Thinking and writing have more influence on people and events than use of force.",
+                "example":"After the mass killings at the newspaper office, there is a protest which is happening in the city declaring support to the paper and proving that pen is mightier than sword."
+            },
+            {
+                "proverb":"People who live in glass houses shouldn’t throw stones at others.",
+                "explanation":"People who have faults should not criticize other people for having the same faults.",
+                "example":"The main political party in the opposition has blamed the ruling party for giving tickets to people with dubious background in the upcoming elections. But the big question is: are they themselves clean on this count? People who live in glass houses shouldn’t throw stones at others."
+            },
+            {
+                "proverb":"Persuasion is better than force.",
+                "explanation":"You can achieve better results through persuasion than through coercion.",
+                "example":"After many futile attempts by the government, farmers finally agreed to acquisition of their land on the promise of economic development of the area. That’s why it is said persuasion is better than force"
+            },
+            {
+                "proverb":"Practice makes perfect.",
+                "explanation":"Doing something over and over makes one better at it.",
+                "example":"You can’t expect to master guitar in two months. You’ve to keep at it for several months, as practice makes perfect."
+            },
+            {
+                "proverb":"Practice what you preach.",
+                "explanation":"Behave the way you encourage other people to behave.",
+                "example":"You keep telling us to go for a jog in the morning, but I wish you would practice what you preach."
+            },
+            {
+                "proverb":"Rome wasn’t built in a day.",
+                "explanation":"Important work takes time to complete.",
+                "example":"You can’t expect her to finish such a complex project in a week. Rome wasn’t built in a day."
+            },
+            {
+                "proverb":"Silence is half consent.",
+                "explanation":"If you don’t object to what someone says or does, you may be assumed to agree to some extent.",
+                "example":"He didn’t say anything to my proposal of going for a picnic on the weekend. I believe he is not saying ‘no’. Silence is half consent."
+            },
+            {
+                "proverb":"Slow and steady wins the race.",
+                "explanation":"Slow and consistent work leads to better chance of success than quick work in spurts.",
+                "example":"X: I’ve built a strong vocabulary by learning a word a day for the last three years. Y: Mine has been much less even though I’ve had days when I polished off ten words. I guess slow and steady wins the race."
+            },
+            {
+                "proverb":"Still waters run deep.",
+                "explanation":"If a person doesn’t speak much, it doesn’t mean they lack depth or are uninteresting.",
+                "example":"She is one of the smartest persons in the organization. She may not talk much, but still waters run deep."
+            },
+            {
+                "proverb":"Strike while the iron is hot.",
+                "explanation":"Take advantage of an opportunity as soon as it comes along.",
+                "example":"I thought over the job offer I got way too long. Now it has been offered to someone else. I should have struck while the iron was hot."
+            },
+            {
+                "proverb":"The best-laid plans go astray.",
+                "explanation":"Despite best preparations, things may not go your way.",
+                "example":"X: I had everything covered for this project, but now I’m told that the project can’t go ahead because the Company is planning an organizational restructuring. Y: Well, that’s unfortunate, but sometimes the best-laid plans go astray."
+            },
+            {
+                "proverb":"The end justifies the means.",
+                "explanation":"A desired result is so important that any method, even a morally bad one, may be used to achieve it.",
+                "example":"He’s campaigning with illegal funds on the theory that if he wins the election the end will justify the means."
+            },
+            {
+                "proverb":"The harder you work, the luckier you get.",
+                "explanation":"The harder you work, the more good ideas and chances you may make for yourself.",
+                "example":"Many think he got lucky in getting that fat contract, but few know he had been pursuing dozens of such contracts for several weeks – the harder you work, the luckier you get."
+            },
+            {
+                "proverb":"The grass is greener on the other side of the fence.",
+                "explanation":"People are never satisfied with their own situation; they always think others have it better.",
+                "example":"X: When I see him post all those travel pictures on Instagram, I feel he has the perfect life. Y: It’s usually not like that in real life. I’m sure he too has his share of problems. I see your thought as grass being greener on the other side of the fence."
+            },
+            {
+                "proverb":"The proof of the pudding is in the eating.",
+                "explanation":"You can only judge the quality of something after you have tried, used, or experienced it.",
+                "example":"X: Marketers have claimed that this weight loss diet produces strong results in just two months. Y: Well, I’ll reserve my opinion till I’ve tried it myself. After all, proof of pudding is in the eating."
+            },
+            {
+                "proverb":"There are more ways than one to skin a cat.",
+                "explanation":"There is more than one way to reach the same goal.",
+                "example":"We can get around that by renting instead of buying the delivery van – there’s more than one way to skin a cat."
+            },
+            {
+                "proverb":"There is no time like the present.",
+                "explanation":"The best time to do something is right now. So, act now.",
+                "example":"Don’t wait until New Year to change your bad habits. There’s no time like the present."
+            },
+            {
+                "proverb":"There is safety in numbers.",
+                "explanation":"A group offers more protection than when you are on your own.",
+                "example":"Her parents won’t allow her to date but do let her go to parties, saying there’s safety in numbers."
+            },
+            {
+                "proverb":"The road to hell is paved with good intentions.",
+                "explanation":"Good intentions do not matter if a person’s actions lead to bad outcomes.",
+                "example":"X: Well, I was only trying to be helpful by mixing those two acids. Y: But, it exploded the beaker. Well, the road to hell is paved with good intentions."
+            },
+            {
+                "proverb":"The show must go on.",
+                "explanation":"A performance, event, etc., must continue even though there are problems.",
+                "example":"The chairman died yesterday but the show must go on."
+            },
+            {
+                "proverb":"The squeaky wheel gets the grease.",
+                "explanation":"People who complain the most are the ones who get attention or what they want.",
+                "example":"Example: If you’re not satisfied with the service at the hotel, then you should call up the manager there. The squeaky wheel gets the grease, after all."
+            },
+            {
+                "proverb":"Time and tide wait for no man.",
+                "explanation":"You’ve no control over passage of time; it’ll keep slipping. So don’t procrastinate, don’t delay things.",
+                "example":"We need to hurry up or else we’ll miss the flight. Time and tide wait for no man"
+            },
+            {
+                "proverb":"Too many cooks spoil the broth.",
+                "explanation":"When too many people work together on a project, the result is inferior.",
+                "example":"This proposal has received feedback from too many parliamentary committees, and that’s probably the reason why it lacks clear actionables. I’ve no doubt that too many cooks spoil the broth."
+            },
+            {
+                "proverb":"Two heads are better than one.",
+                "explanation":"Two persons have a better chance to solve a problem than one.",
+                "example":"More startups have two cofounders than one. That’s because they very well understand that two heads are better than one."
+            },
+            {
+                "proverb":"Two wrongs don’t make a right.",
+                "explanation":"You shouldn’t harm a person who has harmed you, even if you think that person deserves it.",
+                "example":"Just because he insulted you doesn’t mean it’s OK for you to start a rumor about him – two wrongs don’t make a right."
+            },
+            {
+                "proverb":"Watch the doughnut, and not the hole.",
+                "explanation":"Focus on what you have and not on what you don’t.",
+                "example":"X: I’ve to submit the assignment next Monday, but I don’t have a clue on the topic. Y: Consult your friends. Consult books. Understand the topic. Watch the doughnut, and not the hole."
+            },
+            {
+                "proverb":"What goes around comes around.",
+                "explanation":"If someone treats other people badly, he or she will eventually be treated badly by someone else.",
+                "example":"He tormented me back in high school, and now he has his own bully. What goes around comes around"
+            },
+            {
+                "proverb":"When in Rome, do as the Romans do.",
+                "explanation":"When visiting a foreign land, follow the customs of local people.",
+                "example":"I don’t love cotton candy, but we are at a carnival. When in Rome, do as the Romans do, right?"
+            },
+            {
+                "proverb":"When the going gets tough, the tough get going.",
+                "explanation":"When conditions become difficult, strong people take action.",
+                "example":"I know you’re not used to climbing at such heights, but come on when the going gets tough, the tough get going."
+            },
+            {
+                "proverb":"Where there’s a will, there’s a way.",
+                "explanation":"If you are determined enough, you can find a way to achieve what you want, even if it is difficult.",
+                "example":"He had little resources to start his business, but he eventually did through a small opening – blog. Where there’s a will, there’s a way."
+            },
+            {
+                "proverb":"Where there’s smoke there’s fire.",
+                "explanation":"If there are rumors or signs that something is true so it must be at least partly true.",
+                "example":"X: Do you believe those rumors about the mayor? Y: Well, you know what they say, where there’s smoke, there’s fire."
+            },
+            {
+                "proverb":"Where one door shuts, another opens.",
+                "explanation":"When you lose an opportunity to do one thing, an opportunity to do something else appears.",
+                "example":"X: I failed to get into my dream college. Y: Don’t worry, this has happened with many. I’m sure something better is waiting for you. Where one door shuts, another opens."
+            },
+            {
+                "proverb":"While the cat’s away, the mice will play.",
+                "explanation":"Without supervision, people will do as they please, especially in disregarding or breaking rules.",
+                "example":"As soon as their parents left, the children invited all their friends over – when the cat’s away, you know."
+            },
+            {
+                "proverb":"You can catch more flies with honey than with vinegar.",
+                "explanation":"It’s easier to win people to your side by persuasion and politeness than by confrontation and threats.",
+                "example":"X: The courier service has taken more time to deliver than they had promised. I want to take the issue up with them and get a refund. Y: I would suggest you deal with them politely. You can catch more flies with honey than with vinegar."
+            },
+            {
+                "proverb":"You can lead a horse to water but you can’t make it drink.",
+                "explanation":"You can show people the way to do things, but you can’t force them to act.",
+                "example":"X: He has received all the resources one needs to start a business, but even after six months I don’t see anything happening. Y: Well, you can lead a horse to water but you can’t make it drink."
+            },
+            {
+                "proverb":"You can’t always get what you want.",
+                "explanation":"Sometimes you may face disappointments in your pursuits or your wishes may not be fulfilled.",
+                "example":" X: I want a bike on my birthday. Y: Sorry, you can’t always get what you want."
+            },
+            {
+                "proverb":"You can’t fit a round peg in a square hole.",
+                "explanation":"You can’t force someone into a role for which s/he is not suited.",
+                "example":"It took me a while, but I eventually understood that I was a round peg in a square hole in the firm. That’s why I quit for a better-fitting role."
+            },
+            {
+                "proverb":"You can’t have your cake and eat it too.",
+                "explanation":"To have two things that one desires, but they’re normally impossible to get simultaneously.",
+                "example":"If you want more local services, you can’t expect to pay less tax. Well, you can’t have your cake and eat it."
+            },
+            {
+                "proverb":"You can’t make an omelette without breaking eggs.",
+                "explanation":"It is hard to achieve something important without causing unpleasant effects.",
+                "example":"If I don’t slash people’s salaries, the company is going to go bankrupt. It’s unfortunate, but you can’t make an omelet without breaking eggs."
+            },
+            {
+                "proverb":"You can’t teach an old dog new tricks.",
+                "explanation":"People who have long been used to doing things in a particular way will not abandon their habits.",
+                "example":"I bet you can’t get him to get up at 5 AM and go out for a walk. After all, you can’t teach an old dog new tricks."
+            },
+            {
+                "proverb":"You can’t unscramble a scrambled egg.",
+                "explanation":"Some actions are irreversible.",
+                "example":"The spilt milk can’t be used. You can’t unscramble a scrambled egg."
+            },
+            {
+                "proverb":"You can’t win them all.",
+                "explanation":"It is not possible to succeed at everything you do.",
+                "example":"I know you’re disappointed to not convert that interview, but you can’t win them all."
+            },
+            {
+                "proverb":"You show me the man and I’ll show you the rule.",
+                "explanation":"Rules change depending on how influential or powerful the person likely to be affected by the rules is.",
+                "example":"He has been treated leniently by the police. Y: That’s why they say – you show me the man and I’ll show you the rule."
+            }
+    ]
+}
